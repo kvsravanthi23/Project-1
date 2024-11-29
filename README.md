@@ -16,6 +16,7 @@ Matplotlib: For basic data visualization (e.g., bar charts, histograms).
 
 Seaborn: For advanced statistical data visualization (e.g., heatmaps, scatter plots).
 
+
 The dataset contains the following columns:
 
 Restaurant Name: The name of the restaurant.
@@ -29,6 +30,7 @@ Rating: The rating of the restaurant (scale of 1 to 5).
 Cost for Two: The approximate cost for two people to dine at the restaurant.
 
 Votes: The number of votes/reviews the restaurant has received.
+
 
 Data Visualization:
 
