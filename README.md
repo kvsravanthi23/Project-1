@@ -1,5 +1,6 @@
 # Project-1
 ZOMATO_DATA ANALYSIS
+
 Project Overview
 This project analyzes restaurant data obtained from Zomato to uncover trends and patterns across different cities, cuisines, and restaurant ratings. The dataset includes several key attributes such as restaurant name, city, rating, cost for two, cuisines offered, and type of restaurant. Various visualizations are used to represent insights effectively.
 
